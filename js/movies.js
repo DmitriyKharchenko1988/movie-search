@@ -41,7 +41,6 @@ const inputSearchHandler = (e) => {
     }, 2000)
 }
 
-
 export const init = () => {
     createStyle()
     createMarkup()
